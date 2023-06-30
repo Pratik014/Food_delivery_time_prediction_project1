@@ -1,1 +1,0 @@
-https://777376495745.dkr.ecr.us-east-1.amazonaws.com/deliveryprediction
