@@ -4,7 +4,11 @@ from src.pipline.prediction_pipline import CustomData,PredictPipeline
 
 application=Flask(__name__)
 
+
+
 app=application
+
+
 
 
 
